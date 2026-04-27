@@ -1,4 +1,4 @@
-[ATA]https://atabook.org/
+[ATA]atabook.org/
 - call me astro/ast
 - he/they 18+^
 - multi fandoms
