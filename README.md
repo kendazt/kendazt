@@ -1,5 +1,8 @@
 <img width="984" height="192" alt="217" src="https://github.com/user-attachments/assets/0811d398-01c0-4e3f-9006-493045400af2" />
 
+<img width="736" height="512" alt="223" src="https://github.com/user-attachments/assets/5c4037e7-9cb6-4004-b40a-23e6b42b6317" />
+
+
 
 <p align="center">
   <a href="https://keno.atabook.org">‹ATA›<https://keno.atabook.org"></a>
