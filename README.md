@@ -2,6 +2,6 @@
 
 <p algin="center">
   <a
-[ATA]( https://keno.atabook.org/ )
+href="https://keno.atabook.org/">#ATA
 
 <img width="5579" height="1077" alt="204" src="https://github.com/user-attachments/assets/8cceee82-0e30-4d17-9fc9-1ff40fc92c3a" />
