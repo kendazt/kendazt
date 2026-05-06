@@ -1,7 +1,10 @@
-<img width="5580" height="1078" alt="203" src="https://github.com/user-attachments/assets/69c92829-2c1b-4369-a531-877afd9e33ba" />
+<img width="984" height="192" alt="217" src="https://github.com/user-attachments/assets/0811d398-01c0-4e3f-9006-493045400af2" />
+
 
 <p align="center">
-  <a href="https://keno.atabook.org">ata<https://keno.atabook.org"></a>
+  <a href="https://keno.atabook.org">‹ATA›<https://keno.atabook.org"></a>
 </p>
 
-<img width="5579" height="1077" alt="204" src="https://github.com/user-attachments/assets/42b70fc2-4bcf-4b49-9cbd-add047d9fbc0" />
+<img width="736" height="736" alt="218" src="https://github.com/user-attachments/assets/c1e9eca4-93a8-4183-9805-9a2f26baaee9" />
+
+<img width="984" height="192" alt="216" src="https://github.com/user-attachments/assets/2f032034-2ca2-4139-8fed-0abd52f0c872" />
